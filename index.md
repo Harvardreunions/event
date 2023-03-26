@@ -1,6 +1,5 @@
 # Harvard Extension Reunion
 Welcome to Harvard extension reunion webpage
-<img src="images/myheadshot.png?raw=true"/>
 
 ## Subtitle
 
