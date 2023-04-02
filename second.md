@@ -1,15 +1,8 @@
 ---
-Role: Project Investor
-name: Tim
+Project Investor: Tim
+Team: Group5
 ---
----
-Role: CTO - IT lead
-name: Tegshjargal Jambaltseren
----
----
-Role: Marketing manager
-name: Chris
----
+
 ## Meet the event contributers!
 
 More example text here.
