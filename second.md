@@ -5,7 +5,6 @@ Team: Group5
 
 ## Meet the event contributers!
 
-Our team here happy to answer any questions you have. 
 ---
 
 IT Lead: Tegshjargal
