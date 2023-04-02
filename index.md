@@ -12,6 +12,6 @@ Primary goals include a successful reunion with thoughtfully determined target p
 2. Rigister to online events
 [To register the online event.](https://docs.google.com/forms/d/e/1FAIpQLSd7Yyg_Hfb4He5nPdcSzzpigN68LwFui2SZ62n5aKXjmT60VA/viewform?usp=pp_url)
 
-- Unordered sub-list. 
+- [Meet the event contributors.](https://harvardreunions.github.io/event/second) 
 - Unordered sub-list. 
 
