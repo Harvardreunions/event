@@ -1,8 +1,8 @@
 ---
-title: SECOND PAGE TITLE HERE
+title: EVENT CONTRIBUTERS
 filename: second.md
 ---
 
-## Second page!
+## Meet the event contributers!
 
 More example text here.
